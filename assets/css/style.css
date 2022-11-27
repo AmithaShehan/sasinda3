@@ -248,7 +248,6 @@ h6 {
   height: 100vh;
   background: url("../img/cover.jpg") top center;
   background-size: auto;
-  margin-top: -35px; 
 }
 
 #hero:before {
