@@ -13,6 +13,24 @@ body {
   color: #272829;
 }
 
+.ai, .fa{
+  color: white;
+  margin: 5px;
+  font-size: 25px;
+
+}
+
+
+.ai:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+
+.fa:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
@@ -228,8 +246,9 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
-  background-size: cover;
+  background: url("../img/cover.jpg") top center;
+  background-size: auto;
+  margin-top: -35px; 
 }
 
 #hero:before {
