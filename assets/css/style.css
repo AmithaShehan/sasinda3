@@ -474,6 +474,13 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.my-CV{
+  text-align: center;
+  font-size: 30px;
+  /*padding: 20px;*/
+  margin: 0 0px 20px 0px;
+}
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
