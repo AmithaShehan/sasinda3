@@ -857,6 +857,13 @@ section {
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
+
+}
+
+#contact-center{
+  align-items: center;
+  align-content: center;
+  text-align: center;
 }
 
 .contact .info {
