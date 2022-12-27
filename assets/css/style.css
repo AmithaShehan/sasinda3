@@ -246,7 +246,13 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/cover.jpg") top center;
+  /*background: url("../img/cover.jpg") top center;*/
+  background-image: url(https://i.pinimg.com/originals/0e/73/b7/0e73b7ebdbe6e59584563f1683020671.gif);
+  min-height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70%;
   background-size: cover;
 }
 
